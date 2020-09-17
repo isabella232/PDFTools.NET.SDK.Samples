@@ -25,8 +25,8 @@ using Adobe.DocumentServices.PDFTools.exception;
 namespace ProtectPDFWithOwnerPassword
 {
     /// <summary>
-    /// This sample illustrates how to secure a PDF file with owner/permissions password.
-    /// The secured PDF is restricted for copying and editing of the content, and printing of the document at high resolution.
+    /// This sample illustrates how to secure a PDF file with owner password and allow certain access permissions 
+    /// such as copying and editing the contents, and printing of the document at low resolution.
     /// <para/>
     /// Refer to README.md for instructions on how to run the samples.
     /// </summary>
