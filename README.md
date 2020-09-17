@@ -235,7 +235,7 @@ dotnet run ProtectPDF.csproj
 
 #### Protect a PDF File with an Owner Password and Permissions
 
-The sample project ProtectPDFWithOwnerPassword secures input PDF file with owner password and allow certain access permissions such as copying and editing the contents, and printing of the document at low resolution.
+The sample project ProtectPDFWithOwnerPassword secures input PDF file with owner password and allows certain access permissions such as copying and editing the contents, and printing of the document at low resolution.
 
 ```$xslt
 cd ProtectPDFWithOwnerPassword/
